@@ -1,0 +1,26 @@
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Fernanda Nalon
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Natan Lincoln Cruz Barbosa
+// Data atual  : 11/12/2024
+Var
+// Seção de Declarações das variáveis
+
+n1: inteiro
+
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+
+   n1 <-1
+   
+   repita
+         Escreval(n1)
+   n1<- n1+1
+   ate n1>10
+
+
+
+
+Fimalgoritmo
